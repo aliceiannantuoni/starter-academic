@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Alice Iannantuoni
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,33 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: 
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include international political economy, development, and foreign aid.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- International Political Economy
+- Political Economy of Development 
+- Foreign Aid 
+- International Organizations
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Political Science
+    institution: University of Illinois at Urbana-Champaign
+    year: expected 2020
+  - course: M.A. in Political Science
+    institution: University of Illinois at Urbana-Champaign
+    year: 2016
+  - course: B.A. in Political Science
+    institution: North Dakota State University
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,21 +45,22 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: "mailto:alice.iannantuoni@unige.ch"
+  # link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/aliceiannntn
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=7VJy0HgAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/aliceiannantuoni
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/iannantuoni-cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +72,10 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a Ph.D. candidate in the [Department of Political Science](https://pol.illinois.edu) at the University of Illinois at Urbana-Champaign. After defending my dissertation in August 2020, I will start as a postdoctoral fellow at the University of Geneva, Switzerland, in Fall 2020. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I specialize in international political economy, development, and foreign aid. I am interested in how the effectiveness of foreign aid is impacted by (i) the aid giving practices and delivery mechanisms employed by donors, and (ii) the environment shaped by international institutions and norms. In my dissertation project, I study the phenomenon of aid volatility and its pernicious effects on institutional development in recipient countries. 
+
+At the University of Geneva, I will join the [Department of Political Science and International Relations](https://www.unige.ch/sciences-societe/speri) to work with [Simone Dietrich](http://simone-dietrich.com). We will research the evolution and diffusion of international development norms through the peer review tool of the OECD Development Assistance Committee. 
+
+My research has been published or is forthcoming in _The Review of International Organizations_ and _World Development_. You can find a copy of my CV [here](https://www.aliceiannantuoni.com/files/iannantuoni-cv.pdf). 
