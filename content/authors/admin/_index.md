@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Iannantuoni
+title: Alice Iannantuoni, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -30,7 +30,7 @@ education:
   courses:
   - course: Ph.D. in Political Science
     institution: University of Illinois at Urbana-Champaign
-    year: expected 2020
+    year: 2020
   - course: M.A. in Political Science
     institution: University of Illinois at Urbana-Champaign
     year: 2016
@@ -72,10 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a Ph.D. candidate in the [Department of Political Science](https://pol.illinois.edu) at the University of Illinois at Urbana-Champaign. After defending my dissertation in August 2020, I will start as a postdoctoral fellow at the University of Geneva, Switzerland, in Fall 2020. 
+I am a postdoctoral researcher in the Department of Political Science and International Relations at the [University of Geneva](https://www.unige.ch/sciences-societe/speri), in Switzerland. I work with [Simone Dietrich](http://simone-dietrich.com) on a project assessing the creation, evolution, and diffusion of norms in international development and aid giving––with particular focus on the role of the donor peer review tool of the OECD Development Assistance Committee.
 
-I specialize in international political economy, development, and foreign aid. I am interested in how the effectiveness of foreign aid is impacted by (i) the aid giving practices and delivery mechanisms employed by donors, and (ii) the environment shaped by international institutions and norms. In my dissertation project, I study the phenomenon of aid volatility and its pernicious effects on institutional development in recipient countries. 
+I specialize in international political economy, development, and foreign aid. I am interested in how the effectiveness of foreign aid is impacted by (i) the aid giving practices and delivery mechanisms employed by donors, and (ii) the environment shaped by international institutions and norms. In my dissertation project, I study the phenomenon of aid volatility and its pernicious effects on institutional development in recipient countries.
 
-At the University of Geneva, I will join the [Department of Political Science and International Relations](https://www.unige.ch/sciences-societe/speri) to work with [Simone Dietrich](http://simone-dietrich.com). We will research the evolution and diffusion of international development norms through the peer review tool of the OECD Development Assistance Committee. 
-
-My research has been published or is forthcoming in _The Review of International Organizations_ and _World Development_. You can find a copy of my CV [here](https://www.aliceiannantuoni.com/files/iannantuoni-cv.pdf). 
+I received my Ph.D. from the Department of Political Science at the [University of Illinois at Urbana-Champaign](https://pol.illinois.edu) in December 2020. My research has been published or is forthcoming in _The Review of International Organizations_ and _World Development_. You can find a copy of my CV [here](https://www.aliceiannantuoni.com/files/iannantuoni-cv.pdf). 
