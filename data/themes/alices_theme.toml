@@ -5,10 +5,10 @@ name = "alices_theme"
 light = true
 
 # Primary
-primary = "#008080"
+primary = "#235c6f"
 
 # Menu
-menu_primary = "#008080"
+menu_primary = "#235c6f"
 menu_text = "#fff"
 menu_text_active = "#2b2b2b"
 menu_title = "#fff"
