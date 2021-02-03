@@ -72,8 +72,8 @@ user_groups:
 - Visitors
 ---
 
-I am a postdoctoral researcher in the Department of Political Science and International Relations at the [University of Geneva](https://www.unige.ch/sciences-societe/speri), in Switzerland. I work with [Simone Dietrich](http://simone-dietrich.com) on a project assessing the creation, evolution, and diffusion of norms in international development and aid giving --- with particular focus on the role of the donor peer review tool of the OECD Development Assistance Committee.
+I am a postdoctoral researcher in the Department of Political Science and International Relations at the [University of Geneva](https://www.unige.ch/sciences-societe/speri), Switzerland. I work with [Simone Dietrich](http://simone-dietrich.com) on a project assessing the creation, evolution, and diffusion of norms in international development and aid giving --- with particular focus on the role of the donor peer review tool of the OECD Development Assistance Committee.
 
 I specialize in international political economy, development, and foreign aid. I am interested in how the effectiveness of foreign aid is impacted by (i) the aid giving practices and delivery mechanisms employed by donors, and (ii) the environment shaped by international institutions and norms. In my dissertation project, I study the phenomenon of aid volatility and its pernicious effects on institutional development in recipient countries.
 
-I received my Ph.D. from the Department of Political Science at the [University of Illinois at Urbana-Champaign](https://pol.illinois.edu) in December 2020. My research has been published or is forthcoming in _The Review of International Organizations_ and _World Development_. You can find a copy of my CV [here](https://www.aliceiannantuoni.com/files/iannantuoni-cv.pdf). 
+I received my Ph.D. from the Department of Political Science at the [University of Illinois at Urbana-Champaign](https://pol.illinois.edu) in December 2020. My research has been published in _The Review of International Organizations_ and _World Development_. You can find a copy of my CV [here](https://www.aliceiannantuoni.com/files/iannantuoni-cv.pdf). 
