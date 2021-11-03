@@ -89,7 +89,7 @@ subtitle = ""
 
 \
 
-**Works in Progress**
+**Work in Progress**
 - “Evolution of Norms in International Development: The Role of the OECD Development Assistance Committee.” With Simone Dietrich.
 - “Gender Markers in OECD Foreign Aid Data: Who Assesses, Who Marks, and Where Does Gender-Marked Aid
 Go?” With Simone Dietrich and Katharina Fleiner.
