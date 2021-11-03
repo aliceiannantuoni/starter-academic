@@ -84,3 +84,8 @@ subtitle = ""
 - “Playing Favorites? How the Rotating Presidency of the European Union Leaves Little Room for Preferential Treatment in EU Foreign Aid Allocation.” (Manuscript available upon request.)
 - “From Discourse to Meaningful Action in Foreign Aid? Evidence from the OECD Development Assistance Committee.” With Simone Dietrich and Bernhard Reinsberg. (Manuscript available upon request.)
 - “Business as Usual or Donor Politics? An Analysis of Peer Review Assignments in the OECD Development Assistance Committee.” With Simone Dietrich and Bernhard Reinsberg. (Manuscript available upon request.)
+
+**Works in Progress**
+- “Evolution of Norms in International Development: The Role of the OECD Development Assistance Committee.” With Simone Dietrich.
+- “Gender Markers in OECD Foreign Aid Data: Who Assesses, Who Marks, and Where Does Gender-Marked Aid
+Go?” With Simone Dietrich and Katharina Fleiner.
