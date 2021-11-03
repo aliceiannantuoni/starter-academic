@@ -75,4 +75,5 @@ subtitle = ""
  css_class = ""
 +++
 
-Example 
+**Peer-Reviewed Publications**
+- Christopher Grady, Alice Iannantuoni, and Matthew S. Winters. 2021. ''Influencing the Means but Not the Ends: The Role of Entertainment-Education Interventions in Development.'' *World Development*. https://doi.org/10.1016/j.worlddev.2020.105200
