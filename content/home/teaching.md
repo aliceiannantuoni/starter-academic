@@ -111,5 +111,5 @@ subtitle = ""
 - Graduate Teacher Certificate, Center for Innovation in Teaching & Learning, UIUC (Spring 2015)
 
 
-![IMG_0077](https://user-images.githubusercontent.com/30392960/140268310-5b333a1f-8185-4f20-867e-1dd277a33e90.JPG)
+
 
