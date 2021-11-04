@@ -110,6 +110,9 @@ subtitle = ""
 - Marvin G. Weinbaum Award for Excellence in Teaching as an Independent Instructor, UIUC (AY 2019–2020)
 - Graduate Teacher Certificate, Center for Innovation in Teaching & Learning, UIUC (Spring 2015)
 
+&nbsp 
+
+![4778DED5-2F38-4A80-BD52-81D4183EC872](https://user-images.githubusercontent.com/30392960/140269456-b37cb5ff-4183-4d3d-8add-1dd914cec95f.jpg)
 
 
 
