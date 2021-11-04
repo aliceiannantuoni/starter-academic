@@ -108,5 +108,8 @@ subtitle = ""
 - Featured in the list of [*Teachers Ranked as Excellent by Their Students*](https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent) for every semester of in-person instruction, UIUC (\*Fall 2014, Spring 2015, \*Spring 2019, \*Spring 2020)
   - Asterisk indicates “outstanding” distinction, top 10% of instructors on campus
 - Marvin G. Weinbaum Award for Excellence in Teaching as an Independent Instructor, UIUC (AY 2019–2020)
-- Graduate Teacher Certificate, Center for Innovation in Teaching & Learning, UIUC (Spring 2015) 
+- Graduate Teacher Certificate, Center for Innovation in Teaching & Learning, UIUC (Spring 2015)
+
+
+![IMG_0077](https://user-images.githubusercontent.com/30392960/140268310-5b333a1f-8185-4f20-867e-1dd277a33e90.JPG)
 
