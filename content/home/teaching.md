@@ -76,6 +76,7 @@ subtitle = ""
 +++
 
 **Independent Instructor**
+- Applied Quantitative Methods, University of Geneva (Graduate, Fall 2022)
 - Comparative Politics in Developing Nations, UIUC (Spring 2020)
 - Impact Evaluation Workshop at NGO The Prajnya Trust, Chennai, India (Summer 2019)
 - Governing Globalization, UIUC (Spring 2019)
