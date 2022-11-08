@@ -77,4 +77,4 @@ subtitle = ""
 
 **Peer-Reviewed Publications**
 - Christopher Grady, Alice Iannantuoni, and Matthew S. Winters. 2021. ''Influencing the Means but Not the Ends: The Role of Entertainment-Education Interventions in Development.'' ***World Development***. https://doi.org/10.1016/j.worlddev.2020.105200
-- Alice Iannantuoni, Charla Waeiss, and Matthew S. Winters. 2020. “Project Design Decisions of Egalitarian and Non-Egalitarian International Organizations: Evidence from the Global Environment Facility and the World Bank.” ***The Review of International Organizations***. https://doi.org/10.1007/s11558-019-09368-8
+- Alice Iannantuoni, Quinn Waeiss, and Matthew S. Winters. 2020. “Project Design Decisions of Egalitarian and Non-Egalitarian International Organizations: Evidence from the Global Environment Facility and the World Bank.” ***The Review of International Organizations***. https://doi.org/10.1007/s11558-019-09368-8
